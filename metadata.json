@@ -1,0 +1,6 @@
+{
+  "name": "CarVision AI – Car Make, Model & Colour Detector",
+  "description": "AI-powered Android mobile application that detects cars, brand makes, models, colours, and confidence scores from photos with multi-car bounding boxes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
